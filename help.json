@@ -1,0 +1,10 @@
+[
+    "**(-help, -h)** Displays a list of commands.",
+    "**(-remove, -r)** Not fully working yet dont use it >.>",
+    "**(-clear, -c)** Clear's the current queue.",
+    "**(-skip, -s)** Skips the current song.",
+    "**(-queue, -q)** Displays all songs in the current queue.",
+    "**(-play, -p)** Plays a youtube url, searching is not yet supported!",
+    "**(-embed, -e)** Creates a song embed (This is for testing >.>)",
+    "**(-shuffle)** Shuffles the current queue (This is ireversible)"
+]
