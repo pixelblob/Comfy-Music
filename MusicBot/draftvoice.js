@@ -10,7 +10,7 @@ const { token, ytKey, prefix } = require('./config.json');
 const urlRegex = /^((?:https?:)?\/\/)?((?:www|m)\.)?((?:youtube\.com|youtu.be))(\/(?:[\w\-]+\?v=|embed\/|v\/)?)([\w\-]+)(\S+)?$/gm
 const numRegex = /(\d+)/
 const axios = require("axios")
-global.AbortController = require("abort-controller");
+global.AbortController = require("abort-controller")
 var musicQueue = []
 var voiceActivity = []
 
